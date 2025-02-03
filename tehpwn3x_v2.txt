@@ -80,8 +80,6 @@ jumpstyleskyboxlel.MouseButton1Down:connect(function()
 	respawn:Destroy()
 	wait(0.5)
 end)
-
-end)
 ripoffk00p.Name = "ripoff k00p"
 ripoffk00p.Parent = ScreenGui
 ripoffk00p.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
